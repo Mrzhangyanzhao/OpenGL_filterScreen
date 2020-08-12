@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1D9CE711-B2A8-4008-B67F-BDBBB0679779"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A317D00A-02D0-4B3A-93A3-1A957E7C0B02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenGLESGLSL/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "294"
+            endingLineNumber = "294"
+            landmarkName = "-compileShaderWithName:type:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF4C7709-61BE-41AD-9DF4-38F70DB6E70A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenGLESGLSL/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
+            landmarkName = "-compileShaderWithName:type:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF4C7709-61BE-41AD-9DF4-38F70DB6E70A - 48cfbc7ed301cb1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController compileShaderWithName:type:]"
+                  moduleName = "OpenGLESGLSL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yz/Desktop/OpenGLDemo/OpenGL%20ES/16/%E5%88%86%E5%B1%8F%E6%BB%A4%E9%95%9C/OpenGLESGLSL/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "812">
+               </Location>
+               <Location
+                  uuid = "EF4C7709-61BE-41AD-9DF4-38F70DB6E70A - 48cfbc7ed301cb1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController compileShaderWithName:type:]"
+                  moduleName = "OpenGLESGLSL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yz/Desktop/OpenGLDemo/OpenGL%20ES/16/%E5%88%86%E5%B1%8F%E6%BB%A4%E9%95%9C/OpenGLESGLSL/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3362883C-87B1-4A6F-BDDA-E351498A71ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenGLESGLSL/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "312"
+            endingLineNumber = "312"
+            landmarkName = "-compileShaderWithName:type:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
